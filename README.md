@@ -9,4 +9,4 @@ Contents:
 -Heat Map
 
 
-![](seaborn_cheat_sheet.png)
+![](seaborn_cheat_sheet.png) 
