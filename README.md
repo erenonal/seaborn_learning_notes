@@ -3,9 +3,13 @@ Basic consepts and operations from Seaborn libraries.00_all_in_one.ipynb include
 Contents:
 
 -Scatter Charts
+
 -Missing Value Detection
+
 -Crossovers
+
 -Histogram,Violin,Correleation Graph
+
 -Heat Map
 
 
